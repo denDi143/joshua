@@ -1,0 +1,29 @@
+header {
+  background-color: tomato;
+  color: white;
+  padding: 200;
+  text-align: center;
+  position: center;
+  width: 100%;
+  top: 0;
+  left: 0;
+  z-index: 1;
+}
+
+header h1 {
+  color: white;
+  display: inline-block;
+}
+
+.form {
+  background-color:#76b8f9;
+  font-size:1.5em
+}
+
+.rich {
+  color:Tomato;
+}
+
+.us {
+  color:Tomato;
+}
